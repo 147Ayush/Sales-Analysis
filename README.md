@@ -4,7 +4,7 @@
 ## Project Overview
 This Sales Analysis Dashboard provides a comprehensive visualization of sales performance across different markets, products, and customers over time. It includes key metrics such as total revenue, sales quantities, and detailed breakdowns by market, product code, and customer. The dashboard is designed to give a clear picture of how sales trends evolve and to help businesses identify top-performing markets and customers.
 
-![Sales Dashboard](./images/dashboard.png)
+![Sales Dashboard](Dashboard.png)
 
 ## Key Features
 - **Total Revenue**: Displays the total revenue generated, currently $984.81M.
